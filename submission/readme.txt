@@ -1,3 +1,9 @@
+web ini bertujuan untuk menyelesaikan submission milik Dicoding.
+
+Live Preview :
+https://ando-resolusi.vercel.app/
+
+
 sumber contoh :
 https://www.behance.net/gallery/90079519/Resume-Landing-page?tracking_source=search_projects%7Clanding%20page%20ui%20design
 
